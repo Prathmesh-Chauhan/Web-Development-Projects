@@ -2,7 +2,8 @@
 
 Welcome to **Lassi da Dhaba**, a single-page recipe website showcasing traditional Indian desserts with a modern, sleek design. Built with pure CSS, this site demonstrates a clean layout and interactive features to provide a delightful browsing experience.
 
-<!-- ![Screenshot of Lassi da Dhaba](./Screenshot%202024-11-14%20163935.png) -->
+![Screenshot of Lassi da Dhaba](./Screenshot.png)
+
 
 ## 🚀 Features
 
